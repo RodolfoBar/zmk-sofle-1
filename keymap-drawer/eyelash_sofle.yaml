@@ -65,7 +65,7 @@ layers:
   - RGUI
   - $$mdi:apple-keyboard-caps$$
   Layer1:
-  - {t: '`', s: '~'}
+  - {t: '$$mdi:transfer$$', type: trans}
   - F1
   - F2
   - F3
@@ -260,5 +260,5 @@ layers:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
 combos:
-- p: [57, 42]
+- p: [42, 56]
   k: {t: Layer3, h: toggle}
