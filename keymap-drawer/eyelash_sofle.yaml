@@ -64,7 +64,7 @@ layers:
   - Layer 2
   - $$mdi:apple-keyboard-option$$
   - RGUI
-  - $$mdi:apple-keyboard-shift$$
+  - $$mdi:apple-keyboard-caps$$
   LAYER 1:
   - {t: '$$mdi:transfer$$', type: trans}
   - F1
